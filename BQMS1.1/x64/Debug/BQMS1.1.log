@@ -1,0 +1,11 @@
+﻿  BQMS1.1.cpp
+D:\ITI Scolership\courses\C(200,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../../../../C#/microsoft/module%202/BQMS1.1/BQMS1.1/BQMS1.1.cpp')
+  
+D:\ITI Scolership\courses\C(200,26): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file '../../../../../C#/microsoft/module%202/BQMS1.1/BQMS1.1/BQMS1.1.cpp')
+  
+D:\ITI Scolership\courses\C(211,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '../../../../../C#/microsoft/module%202/BQMS1.1/BQMS1.1/BQMS1.1.cpp')
+  
+  BQMS1.1.vcxproj -> D:\ITI Scolership\courses\C#\microsoft\module 2\BQMS1.1\x64\Debug\BQMS1.1.exe
